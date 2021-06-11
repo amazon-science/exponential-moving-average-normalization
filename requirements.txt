@@ -1,0 +1,6 @@
+pandas
+opencv-python
+scipy
+faiss-gpu
+torch>=1.5.0
+torchvision>=0.6.0
