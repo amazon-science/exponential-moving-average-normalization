@@ -128,8 +128,9 @@ For BYOL, change to ``--model-prefix online_net.backbone``. For the best perform
 ### Models
 
 Our pre-trained ResNet-50 models can be downloaded as following:
-| name | epoch | acc@1% IN |acc@10% IN | acc@100% IN | model |
-|:---:||:---:|:---:|:---:|:---:| :---:|
+
+| name | epoch | acc@1% IN | acc@10% IN | acc@100% IN | model |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | MoCo-EMAN | 200 | 48.9 | 60.5 | 67.7 | [download](https://github.com/xxx.pth) |
 | MoCo-EMAN | 800 | 55.4 | 64.0 | 70.1 | [download](https://github.com/xxx.pth) |
 | MoCo-2X-EMAN | 200 | 56.8 | 65.7 | 72.3 | [download](https://github.com/xxx.pth) |
