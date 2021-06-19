@@ -1,6 +1,8 @@
 # code in this file is adapted from
 # https://github.com/yaox12/BYOL-PyTorch/blob/master/optimizer/LARSSGD.py
 # Copyright 2020 Xin Yao. Licensed under the MIT License.
+# Modifications Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: CC-BY-NC-4.0
 
 """ Layer-wise adaptive rate scaling for SGD in PyTorch! """
 import torch

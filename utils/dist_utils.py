@@ -2,6 +2,7 @@
 # https://github.com/facebookresearch/moco
 # Original Copyright 2020 Facebook, Inc. and its affiliates. Licensed under the CC-BY-NC 4.0 License.
 # Modifications Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
+# SPDX-License-Identifier: CC-BY-NC-4.0
 
 import torch
 import torch.distributed as dist
